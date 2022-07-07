@@ -16,3 +16,4 @@ I would also like to share with you some of my projects.
   * This is handy for learning unocss
   * Although he was stranded
 
+![TickHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=TickHeart&show_icons=true)
