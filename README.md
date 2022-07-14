@@ -15,5 +15,8 @@ I would also like to share with you some of my projects.
 3. [miniunocss](https://github.com/developer-plus/mini-unocss): An on-demand, atomic CSS engine, a mini version of unocss.
   * This is handy for learning unocss
   * Although he was stranded
+4. [pi](https://github.com/TickHeart/pi): An public shell alias
+  * Very easy to use package manager
+  * Although not very impressive
 
 ![TickHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=TickHeart&show_icons=true)
