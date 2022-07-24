@@ -17,6 +17,6 @@ I would also like to share with you some of my projects.
   * Although he was stranded
 4. [pi](https://github.com/TickHeart/pi): An public shell alias
   * A package manager which is very easy to use
-  * Although not very impressive
+  * Although not very noticeable
 
 ![TickHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=TickHeart&show_icons=true)
