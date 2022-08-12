@@ -1,10 +1,10 @@
-Hi there, I'm tick
+<p align="center">Hi there, I'm tick</p>
 
-I am a 22 year old teenager ✨
+<p align="center">I am a 22 year old teenager ✨</p>
 
-I would like to recommend my good friends [zx](https://github.com/alexzhang1030) and [yswdqz](https://github.com/yswdqz), both of them have been very helpful and I am grateful to them.
+<p align="center">I would like to recommend my good friends [zx](https://github.com/alexzhang1030) and [yswdqz](https://github.com/yswdqz), both of them have been very helpful and I am grateful to them.</p>
 
-I would also like to share with you some of my projects.
+<p align="center">I would also like to share with you some of my projects.</p>
 
 <p align="center">
   <samp>
