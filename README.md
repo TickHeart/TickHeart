@@ -2,7 +2,7 @@ Hi there, I'm tick
 
 I am a 22 year old teenager ✨
 
-I would like to recommend my good friends [zx](https://github.com/alexzhang1030) and [yswdqz](https://github.com/yswdqz), both of whom have been very helpful and I am grateful to them.
+I would like to recommend my good friends [zx](https://github.com/alexzhang1030) and [yswdqz](https://github.com/yswdqz), both of them have been very helpful and I am grateful to them.
 
 I would also like to share with you some of my projects.
 
