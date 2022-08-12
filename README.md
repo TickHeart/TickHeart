@@ -14,5 +14,3 @@
     <a href="https://github.com/TickHeart/pi">pi</a> 
   </samp>
 </p>
-
-![TickHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=TickHeart&show_icons=true)
